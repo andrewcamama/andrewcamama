@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Andrew Camama 👋
 
-<!--
-**andrewcamama/andrewcamama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BS Information Technology student at MSU, College of Information and Computing Sciences.
 
-Here are some ideas to get you started:
+## What I'm working on
+- 🎓 Capstone: Inventory and Asset Tracking Management System with QR Code
+- 📚 Learning: web development, databases, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I use
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+
+## Projects
+- 
+
+## Contact
+- 📧 andrewcamama@gmail.com
